@@ -1,4 +1,4 @@
-# Virus Proj# Welcome to GitHub Desktop!
+# Virus Projct Welcome to GitHub Desktop!
 ###  Virus Project
 
 ### О проекте
